@@ -8,7 +8,7 @@ import java.util.Scanner;
 import model.entities.Reservation;
 import model.exceptions.DomainException;
 
-public class Program {
+public class ProgramReservation {
 	public static void main(String[] args) {
 
 		Scanner sc = new Scanner(System.in);
